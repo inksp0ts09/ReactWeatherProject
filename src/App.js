@@ -5,13 +5,15 @@ export default function App() {
   return (
     <div className="App">
       <Weather />
+
       <footer>
+        This project was coded by Maryanne McGlone and is
         <a
           href="https://github.com/inksp0ts09/ReactWeatherProject"
           target="_blank"
           rel="noreferrer"
         >
-          Weather App
+          open-sourced on GitHub
         </a>
       </footer>
     </div>
