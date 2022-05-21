@@ -46,6 +46,10 @@
   font-weight: 400;
 }
 
+.Weather canvas {
+  margin: 10px auto;
+}
+
 .Weather .unit {
   color: rgb(33, 33, 33);
   font-size: 16px;
